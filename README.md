@@ -23,3 +23,5 @@ You can also see this repo [here](https://github.com/coding-team-shanghai/hackin
 - Firmware Revisions
   - BIOS version `2.9.0`
   - Thunderbolt Controller firmware version `NVM 26`
+
+Special Thanks to [the darkvoid](https://github.com/the-darkvoid/XPS9360-macOS) for description.
